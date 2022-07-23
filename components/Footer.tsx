@@ -29,7 +29,7 @@ const Footer = () => {
           </li>
           <li>
             <a
-              href="https://github.com/Rolexero/freasible-int"
+              href="https://github.com/Rolexero/rolex-task"
               rel="noreferrer"
               target="_blank"
               className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
